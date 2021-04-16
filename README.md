@@ -3,4 +3,4 @@ I was asked how to connect an arduino to car brake and indicator (turn signal) l
 ## YouTube Video
 
 ## Warning
-This is to be used for experimental and education purposes only. Using this setup on a road-going vehicle is not a good idea, as the reliability and brightness do not meet minimum legal standards.
+This project is to be used for experimental and education purposes only. Using this setup on a road-going vehicle is not a good idea, as the reliability and brightness do not meet minimum legal standards.

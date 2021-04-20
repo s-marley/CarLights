@@ -39,7 +39,7 @@ void setup() {
 	FastLED.addLeds<WS2812B, R_BRAKE_LED_PIN, GRB>(r_brake_leds, NUM_LEDS).setCorrection(TypicalLEDStrip);
 	FastLED.addLeds<WS2812B, L_INDICATOR_LED_PIN, GRB>(l_indicator_leds, NUM_LEDS).setCorrection(TypicalLEDStrip);
 	FastLED.addLeds<WS2812B, R_INDICATOR_LED_PIN, GRB>(r_indicator_leds, NUM_LEDS).setCorrection(TypicalLEDStrip);
-	FastLED.setBrightness(BRIGHTNESS;
+	FastLED.setBrightness(BRIGHTNESS);
 
 	pinMode(BRAKE_INPUT, INPUT);
 	pinMode(L_INDICATOR_INPUT, INPUT);
